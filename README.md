@@ -9,3 +9,5 @@ PASOS:
 * posterior a ello, dan permisos de ejecución : `sudo chmod +x caffeine.sh` 
 * finalmente tipean: `./caffeine.sh`
 * Listo! 
+# Imagen script finalizado -> 
+![Image text](https://github.com/JFOZ1010/Script-Automatization---MacOS/blob/main/image.png)
