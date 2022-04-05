@@ -9,8 +9,8 @@ PASOS:
 * posterior a ello, dan permisos de ejecución : `sudo chmod +x caffeine.sh` 
 * finalmente tipean: `./caffeine.sh`
 * Listo! 
-# **Imagen codigo en VIM**
+# **Imagen codigo en VIM:**
 ![Image text](https://github.com/JFOZ1010/Script-Automatization---MacOS/blob/main/code.png)
 
-# Imagen script finalizado -> 
+# Imagen script finalizado:
 ![Image text](https://github.com/JFOZ1010/Script-Automatization---MacOS/blob/main/image.png)
